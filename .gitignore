@@ -1,0 +1,11 @@
+# Arquivos temporários do Office
+~$*
+*.tmp
+
+# Atalhos do Windows e lixo do sistema
+*.lnk
+desktop.ini
+Thumbs.db
+
+# Configuração local do Claude Code
+.claude/settings.local.json
